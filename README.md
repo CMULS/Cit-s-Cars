@@ -86,7 +86,7 @@
     <p id="name"><img id="img" src="Img/IMG_20210418_193526 (2).JPG" alt= ""><strong>Chibesa D Mulenga</strong>   December 20 2023</p>
     <div id="img-div">
         <img id= "image" src="https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg" alt="Mercedes G-Wagon">
-        <div id="img-caption"><bold>The Mercedes G-Wagon. Known for its class and off-road capabilities</bold></figcaption>
+        <div id="img-caption"><bold>The Mercedes G-Wagon. Known for its class and off-road capabilities</bold>
     </div> 
     <h3>Overview</h3>
 
