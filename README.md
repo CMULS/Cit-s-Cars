@@ -70,9 +70,9 @@
   
   </style>
 
-<!DOCTYPE html>
 
-<html>
+
+
   <body>
   <main id="main">
   <head>
@@ -94,7 +94,7 @@
     <img id="images" src="https://tfltruck.com/wp-content/uploads/2017/12/2019-mercedes-g-wagon-dash-600x424.jpg" alt="G-Wagon interior">
     <figcaption id="figcaption">The revamped Mercedes G-Wagon interior</figcaption></section>
 
-    <section><p><img id="bio" src="Img/IMG_20210418_193526 (2).JPG" alt="Chibesa's Bio">I'm excited to share my passion for cars. The intricate design, powerful engines, and the sheer feeling of the open road have always fascinated me. Whether it's the classic lines of vintage models or the cutting-edge technology in modern vehicles, each car tells a unique story. I find joy in exploring the world of automotive innovation, from the high-performance engines to the sleek aesthetics of a well-crafted design. The world of cars is a captivating blend of art and engineering.</p></section>
+    <section><p><img id="bio" src="Img/IMG_20210418_193526 (2).JPG" alt="Chibesa's Bio"><bold>I'm excited to share my passion for cars. The intricate design, powerful engines, and the sheer feeling of the open road have always fascinated me. Whether it's the classic lines of vintage models or the cutting-edge technology in modern vehicles, each car tells a unique story. I find joy in exploring the world of automotive innovation, from the high-performance engines to the sleek aesthetics of a well-crafted design. The world of cars is a captivating blend of art and engineering.</bold></section>
     <section>
     <h2>Sources</h2>
      <p>Wikipedia</p><a href="https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class">https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class</a>
