@@ -46,7 +46,6 @@
   #bio {
     max-width: 20%;
     display: inline-block;
-    border-radius: 50%;
     font-style: italic;
   }
   #text {
