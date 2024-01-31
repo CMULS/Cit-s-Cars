@@ -44,7 +44,7 @@
     font-style: italic;
   }
   #bio {
-    max-width: 8%;
+    max-width: 20%;
     display: inline-block;
     border-radius: 50%;
     font-style: italic;
