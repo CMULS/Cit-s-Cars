@@ -105,6 +105,5 @@
     </section>
     <footer>
     <a href="https://cmuls.github.io/CMULS" id="a1">How to reach me?</a>
-    <p id="words"><bold>Email to..</bold></p><a href="mulengachibesa8@gmail.com">mulengachibesa8@gmail.com</a>
     </footer>
     
