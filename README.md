@@ -98,7 +98,7 @@
     <figcaption id="figcaption"><strong>The revamped Mercedes G-Wagon interior</strong></figcaption></section>
 
     <h5>I'm excited to share my passion for cars. The intricate design, powerful engines, and the sheer feeling of the open road have always fascinated me. Whether it's the classic lines of vintage models or the cutting-edge technology in modern vehicles, each car tells a unique story. I find joy in exploring the world of automotive innovation, from the high-performance engines to the sleek aesthetics of a well-crafted design. The world of cars is a captivating blend of art and engineering.<img id="bio" src="Img/IMG_20210418_193526 (2).JPG" alt=""></h5>
-    <section id="links" content="width= device-width, initial-scale=1.0">
+    <section id="links">
     </main>
     </body>
     <h2>Sources</h2>
