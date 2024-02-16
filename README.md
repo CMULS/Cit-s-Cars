@@ -67,7 +67,8 @@
     color: white;
   } 
   #links {
-  background-color: brown;
+    background-color: brown;
+    color: brown;
   }
   
   </style>
