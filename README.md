@@ -104,6 +104,9 @@
     <div class="Layout Container">
     </div>
     <footer class="LayoutBottom row">
+    <div class="col-sm-12">
+    $$FOOTER$$
+    
     <h2>Sources</h2>
      <p>Wikipedia</p><a href="https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class">https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class</a>
      <p>CAR AND DRIVER (2022), 2022 MERCEDES-BENZ G-CLASS</p><a href="https://www.caranddriver.com/mercedes-benz/g-class-2022">https://www.caranddriver.com/mercedes-benz/g-class-2022</a>
@@ -111,5 +114,6 @@
      <p>HDQwalls.com, November 11 2019</p><a href="https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg">https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg</a>
     
     <h3><a href="https://cmuls.github.io/CMULS" id="a1">How to reach me?</a></h3>
+    </div>
     </footer>
     
