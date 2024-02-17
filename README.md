@@ -11,7 +11,7 @@
   background-color: white;
   margin-top: 50px;
   font-size: 40px;
-} 
+}  
 
       
 #image-div {
