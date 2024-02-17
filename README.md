@@ -108,8 +108,6 @@
      <p>HDQwalls.com, November 11 2019</p><a href="https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg">https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg</a>
     </section>
     <footer>
-     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <a href="https://cmuls.github.io/CMULS" id="a1">How to reach me?</a>
     </footer>
     
