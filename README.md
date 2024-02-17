@@ -98,8 +98,9 @@
     <figcaption id="figcaption"><strong>The revamped Mercedes G-Wagon interior</strong></figcaption></section>
 
     <h5>I'm excited to share my passion for cars. The intricate design, powerful engines, and the sheer feeling of the open road have always fascinated me. Whether it's the classic lines of vintage models or the cutting-edge technology in modern vehicles, each car tells a unique story. I find joy in exploring the world of automotive innovation, from the high-performance engines to the sleek aesthetics of a well-crafted design. The world of cars is a captivating blend of art and engineering.<img id="bio" src="Img/IMG_20210418_193526 (2).JPG" alt=""></h5>
-    
+    </main>
     </body>
+    <footer>
     <section id="links">
     <h2>Sources</h2>
      <p>Wikipedia</p><a href="https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class">https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class</a>
@@ -107,7 +108,6 @@
      <p>TFLTruck.com</p><a href="https://tfltruck.com/wp-content/uploads/2017/12/2019-mercedes-g-wagon-dash-600x424.jpg">https://tfltruck.com/wp-content/uploads/2017/12/2019-mercedes-g-wagon-dash-600x424.jpg</a>
      <p>HDQwalls.com, November 11 2019</p><a href="https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg">https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg</a>
     </section>
-    <footer>
     <a href="https://cmuls.github.io/CMULS" id="a1">How to reach me?</a>
     </footer>
     
