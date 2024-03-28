@@ -88,7 +88,7 @@
     <nav id="nav-bar"></nav>
     </head>
     <h1 id="title">Mercedes Benz G-Wagon</h1>
-    <p id="name"><img id="img" src="Img/IMG_20210418_193526 (2).JPG" alt= ""><strong>Chibesa D Mulenga</strong>   December 20 2023</p>
+    <p id="name"><img id="img" src="IMG_20210418_193526 (2).jpg" alt= "Chibesa Smilling"><strong>Chibesa D Mulenga</strong>   December 20 2023</p>
     <div id="img-div">
         <img id= "image" src="https://images.hdqwalls.com/wallpapers/white-mercedes-g-wagon-wr.jpg" alt="Mercedes G-Wagon">
         <div id="img-caption"><strong>The Mercedes G-Wagon. Known for its class and off-road capabilities</strong>
@@ -100,7 +100,7 @@
     <img id="images" src="https://tfltruck.com/wp-content/uploads/2017/12/2019-mercedes-g-wagon-dash-600x424.jpg" alt="G-Wagon interior">
     <figcaption id="figcaption"><strong>The revamped Mercedes G-Wagon interior</strong></figcaption></section>
 
-    <h5>I'm excited to share my passion for cars. The intricate design, powerful engines, and the sheer feeling of the open road have always fascinated me. Whether it's the classic lines of vintage models or the cutting-edge technology in modern vehicles, each car tells a unique story. I find joy in exploring the world of automotive innovation, from the high-performance engines to the sleek aesthetics of a well-crafted design. The world of cars is a captivating blend of art and engineering.<img id="bio" src="Img/IMG_20210418_193526 (2).JPG" alt=""></h5>
+    <h5>I'm excited to share my passion for cars. The intricate design, powerful engines, and the sheer feeling of the open road have always fascinated me. Whether it's the classic lines of vintage models or the cutting-edge technology in modern vehicles, each car tells a unique story. I find joy in exploring the world of automotive innovation, from the high-performance engines to the sleek aesthetics of a well-crafted design. The world of cars is a captivating blend of art and engineering.<img id="bio" src="IMG_20210418_193526 (2).jpg" alt="Chibesa Smilling"></h5>
     <div class="Layout Container">
     </div>
     <footer class="LayoutBottom row">
