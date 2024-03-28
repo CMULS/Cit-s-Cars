@@ -24,7 +24,7 @@
     img-align: center;
   }   
   #img {
-    max-width: 3%;
+    max-width: 7%;
     display: inline-block;
     border-radius: 50%;
   } 
