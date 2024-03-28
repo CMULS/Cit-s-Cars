@@ -44,9 +44,10 @@
     font-style: italic;
   }
   #bio {
-    max-width: 20%;
+    max-width: 10%;
     display: inline-block;
     font-style: italic;
+    border-radius: 50%;
   }
   #text {
     text-align: center;
